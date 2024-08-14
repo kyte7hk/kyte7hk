@@ -1,16 +1,13 @@
 <h1 align="center">Hola 👋, soy Yulia!</h1>
 <h3 align="center">Una apasionada del diseño UX/UI que en su tiempo libre dedica tiempo para poder aprender, poner en práctica y combinar conocimientos de Front-end y UX. 🌱</h3>
 
-- 👨‍💻 Mis proyectos:
+👨‍💻 **Mis proyectos**
       <p>En UX/UI <a href="https://drive.google.com/file/d/1gOv3Xadt4HOBtwdVj_B_aJ_DntCoXvDj/view?usp=sharing"> aquí </a></p>
       <p> En Front-end puedes echar un vistazo a mi repositorio ya que voy subiendo diferentes proyectos. </p>
 
-- 📫 Cómo me puedes contactar:
-      <p>**yuliamykhaylovych@gmail.com**</p> 
+📄 Puedes ver **mi cv** desde <a href="https://drive.google.com/file/d/1hCsbVIyQ88qy37IGuDrniub2EaYPCsSj/view?usp=sharing">aquí</a> o desde mi perfil de <a href="https://www.linkedin.com/in/yuliamykha/">Linkedin </a>
 
-- 📄 Puedes ver mi cv desde <a href="https://drive.google.com/file/d/1hCsbVIyQ88qy37IGuDrniub2EaYPCsSj/view?usp=sharing">aquí</a> o desde mi perfil de <a href="https://www.linkedin.com/in/yuliamykha/">Linkedin </a>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contáctame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuliamykha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuliamykha/" height="30" width="40" /></a>
 </p>
