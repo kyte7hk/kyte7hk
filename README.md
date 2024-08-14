@@ -3,6 +3,7 @@
 
 - 👨‍💻 Mis proyectos:
       <p>En UX/UI <a href="https://drive.google.com/file/d/1gOv3Xadt4HOBtwdVj_B_aJ_DntCoXvDj/view?usp=sharing"> aquí </a></p>
+      <p> En Front-end puedes echar un vistazo a mi repositorio ya que voy subiendo diferentes proyectos. </p>
 
 - 📫 Cómo me puedes contactar:
       <p>**yuliamykhaylovych@gmail.com**</p> 
