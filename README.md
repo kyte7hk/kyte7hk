@@ -2,10 +2,10 @@
 <h3 align="center">Una apasionada del diseño UX/UI que en su tiempo libre dedica tiempo para poder aprender, poner en práctica y combinar conocimientos de Front-end y UX. 🌱</h3>
 
 👨‍💻 **Mis proyectos**
-      <p>En UX/UI <a href="https://drive.google.com/file/d/1gOv3Xadt4HOBtwdVj_B_aJ_DntCoXvDj/view?usp=sharing"> aquí </a></p>
+      <p>En UX/UI <a href="https://drive.google.com/file/d/1_TTG7sgvoIKq6JmTxeoEyZXWO4jttriO/view?usp=sharing"> aquí </a></p>  
       <p> En Front-end puedes echar un vistazo a mi repositorio ya que voy subiendo diferentes proyectos. </p>
 
-📄 Puedes ver **mi cv** desde <a href="https://drive.google.com/file/d/1Xd-xhKlG99udlmX199936rBB14ToJ-SM/view?usp=sharing">aquí</a> o desde mi perfil de <a href="https://www.linkedin.com/in/yuliamykha/">Linkedin </a>
+📄 Puedes ver **mi cv** desde <a href="https://drive.google.com/file/d/1hGgWnvNOoE1Pxqdav070b_vVEqdLLrHS/view?usp=sharing">aquí</a> o desde mi perfil de <a href="https://www.linkedin.com/in/yuliamykha/">Linkedin </a>  
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
