@@ -2,7 +2,8 @@
 <h3 align="center">Una apasionada del diseño UX/UI que en su tiempo libre dedica tiempo para poder aprender, poner en práctica y combinar conocimientos de Front-end y UX. 🌱</h3>
 
 👨‍💻 **Mis proyectos**
-      <p>En UX/UI <a href="https://drive.google.com/file/d/1_TTG7sgvoIKq6JmTxeoEyZXWO4jttriO/view?usp=sharing"> aquí </a></p>  
+      <p>UX Case Study (Klubb app) <a href="https://drive.google.com/file/d/1T1ToZre3MUxUa_8QXJKWEHH0gvt2cXo3/view?usp=sharing"> aquí </a></p>  
+      <p>UX/UI Projects <a href="https://drive.google.com/file/d/1BUxmhqSMLggsZKAPbDHp8LHzf-SlWK4X/view?usp=sharing"> aquí </a></p> 
       <p> En Front-end puedes echar un vistazo a mi repositorio ya que voy subiendo diferentes proyectos. </p>
 
 📄 Puedes ver **mi cv** desde <a href="https://drive.google.com/file/d/1hGgWnvNOoE1Pxqdav070b_vVEqdLLrHS/view?usp=sharing">aquí</a> o desde mi perfil de <a href="https://www.linkedin.com/in/yuliamykha/">Linkedin </a>  
