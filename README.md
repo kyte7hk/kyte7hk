@@ -6,8 +6,8 @@
       <p>UX/UI Projects <a href="https://drive.google.com/file/d/1BUxmhqSMLggsZKAPbDHp8LHzf-SlWK4X/view?usp=sharing"> aquí </a></p> 
       <p> En Front-end puedes echar un vistazo a mi repositorio ya que voy subiendo diferentes proyectos. </p>
       <p> Actualmente desarrollando varios proyectos personales:
-      <p><ul> Portfolio Online: HTML, CSS y Javascript.<p>
-      <p><ul> Mini Trello: Java y Spring Boot para aplicar lo aprendido en una API REST (Proyecto gestor de tarjetas).<p>
+      <p><li> Portfolio Online: HTML, CSS y Javascript.</li></p>
+      <p><li> Mini Trello: Java y Spring Boot para aplicar lo aprendido en una API REST (Proyecto gestor de tarjetas).</li></p>
       
 
 📄 Puedes ver **mi cv** desde <a href="https://drive.google.com/file/d/15XJfBSVsoCO77GNhf8rKJZtD-YL2t17F/view?usp=sharing">aquí</a> o desde mi perfil de <a href="https://www.linkedin.com/in/yuliamykha/">Linkedin </a>  
